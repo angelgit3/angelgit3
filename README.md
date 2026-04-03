@@ -19,5 +19,5 @@ An open-source, AI-enhanced educational platform built with Next.js and Supabase
 *   Advanced robotics control loops integrated with real-time web telemetry.
 
 ### 📫 Let's Connect
-*   ✉️ **Email:** (pon aquí tu correo)
-*   💼 **LinkedIn:** (pon aquí tu URL de linkedin, si tienes)
+*   ✉️ **Email:** contacto.angel.anaya@gmail.com
+
