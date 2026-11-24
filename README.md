@@ -29,16 +29,15 @@ The thread that ties it together: **make systems traceable and machine-checkable
 | **Puerkito** | Personal finance PWA. | React · Vite · Supabase (RLS) | 🟡 In development |
 | **Sitka** | On-device AI voice inbox for iPhone: dictate a thought and it becomes a reminder or an Obsidian note. No cloud. | SwiftUI · Apple Foundation Models | 🔵 In design |
 | **Lector** | Distraction-free EPUB reader for iPhone and Mac that syncs highlights into my second brain. | SwiftUI · Swift Packages | 🔵 In design |
-| **[SkyVision](https://github.com/angelgit3/estacion_clima_proyecto)** | ESP32 multi-sensor weather station streaming to Supabase, with a real-time dashboard. | C++ (ESP32) · React · Recharts | ✅ School project |
+| **SkyVision** | ESP32 multi-sensor weather station streaming to Supabase, with a real-time dashboard. | C++ (ESP32) · React · Recharts | ✅ School project |
 
 ### 🎨 Web design for local businesses
 
-Mobile-first websites for small businesses in Hidalgo, México: restaurants, food stands, services. Their customers arrive from WhatsApp, Instagram, and Google Maps, so that's what I design for.
+On the side I run a local-visibility practice for small businesses in Hidalgo, México: mobile-first websites, Google Maps, and WhatsApp working together. → **[albertoanaya.com.mx](https://www.albertoanaya.com.mx)**
 
-- **Process:** business brief → inspiration survey → written design direction and tokens → spec → build → client handoff guide
 - **Stack:** Astro + Tailwind on Cloudflare with near-zero JavaScript; Next.js + Framer Motion for the premium tier
 - **Built in:** WhatsApp CTAs, local SEO (JSON-LD, sitemaps, Google Business Profile), menus and pricing, brand kits
-- **Live:** [albertojardinero.com](https://albertojardinero.com)
+- **Example:** [albertojardinero.com](https://albertojardinero.com)
 
 ### 🧠 How I work
 
